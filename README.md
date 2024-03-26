@@ -2,9 +2,14 @@
 
 https://news.speedata.de
 
-| File name        | Description      | Part   |
-| ---------------- | ---------------- | ------ |
-| `00-example.pdf` | Minimal PDF file | Part 1 |
+| File name            | Description               | Part                                                        |
+| -------------------- | ------------------------- | ----------------------------------------------------------- |
+| `01-example.pdf`     | Minimal PDF file          | [Part 1](https://news.speedata.de/2024/03/19/insidepdf-01/) |
+| `02-basicfont.pdf`   | Basic font usage          | [Part 2](https://news.speedata.de/2024/03/25/insidepdf-02/) |
+| `02-twolines.pdf`    | New line in text          | [Part 2](https://news.speedata.de/2024/03/25/insidepdf-02/) |
+| `02-outlinefont.pdf` | Rendering mode            | [Part 2](https://news.speedata.de/2024/03/25/insidepdf-02/) |
+| `02-kerning.pdf`     | Advanced text positioning | [Part 2](https://news.speedata.de/2024/03/25/insidepdf-02/) |
+
 
 
 
