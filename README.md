@@ -15,7 +15,7 @@ https://news.speedata.de
 | `03-graphicsstate.pdf` | Graphics state            | [Part 3](https://news.speedata.de/2024/04/08/insidepdf-03)  |
 | `03-rect.pdf`          | Basic colors              | [Part 3](https://news.speedata.de/2024/04/08/insidepdf-03)  |
 | `03-skew.pdf`          | Transformations           | [Part 3](https://news.speedata.de/2024/04/08/insidepdf-03)  |
-
+| `03-bezier.pdf`        | Arcs                      | [Part 3](https://news.speedata.de/2024/04/08/insidepdf-03)  |
 
 
 ## License and contact
