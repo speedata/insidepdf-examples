@@ -1,0 +1,56 @@
+%PDF-1.6
+%··
+1 0 obj
+<<
+    /Type /Catalog
+    /Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+    /Type /Pages
+    /Kids [ 3 0 R ]
+    /Count 1
+>>
+endobj
+
+3 0 obj
+<<
+    /Type /Page
+    /MediaBox [ 0 0 170 70 ]
+    /Contents 4 0 R
+    /Parent 2 0 R
+    /Resources << >>
+>>
+endobj
+
+4 0 obj
+<<
+    /Length 299
+>>
+stream
+q                   % save graphics state
+3 w
+0.113 0.694 0.002 RG
+10 10 m 100 10 l s  % green line
+Q                   % restore graphics state
+10 20 m 100 20 l s  % thin black line: color and line width
+                    % settings are back to the (default)
+                    % previous state
+endstream
+endobj
+xref
+0 5
+0000000000 65535 f 
+0000000015 00000 n 
+0000000073 00000 n 
+0000000145 00000 n 
+0000000271 00000 n 
+trailer <<
+    /Size 5
+    /Root 1 0 R
+>>
+startxref
+624
+%%EOF

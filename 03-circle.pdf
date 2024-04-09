@@ -1,0 +1,84 @@
+%PDF-1.6
+%··
+
+1 0 obj
+<<
+    /Type /Catalog
+    /Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+    /Type /Pages
+    /Kids [ 3 0 R ]
+    /Count 1
+>>
+endobj
+
+3 0 obj
+<<
+    /Type /Page
+    /MediaBox [ 0 0 200 200 ]
+    /Contents 4 0 R
+    /Parent 2 0 R
+    /Resources << /Font << /F1 5 0 R  >>  >>
+>>
+endobj
+
+4 0 obj
+<<
+    /Length 601
+>>
+stream
+150 100 m                          %    point 1
+150    72.4 127.6  50   100  50 c  % to point 2
+ 72.4  50    50    72.4  50 100 c  % to point 3
+ 50   127.6  72.4 150   100 150 c  % to point 4
+127.6 150   150   127.6 150 100 c  % to point 1
+S
+BT
+/F1 10 Tf
+  1 0 0 1 152 100 Tm (1) Tj
+  1 0 0 1 95 40 Tm (2) Tj
+  1 0 0 1 40 100 Tm (3) Tj
+  1 0 0 1 95 152 Tm (4) Tj
+ET
+% control points
+% first arc (1-2)
+150 72.4 1 1 re f
+127.6 50 1 1 re f
+% second arc (2-3)
+72.4 50 1 1 re f
+50 72.4 1 1 re f
+% third arc (3-4)
+50 127.6 1 1 re f
+72.4 150 1 1 re f
+% second arc (4-1)
+127.6 150 1 1 re f
+150 127.6 1 1 re f
+endstream
+endobj
+
+5 0 obj
+<<
+    /Type     /Font
+    /Subtype  /Type1
+    /BaseFont /Helvetica
+>>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000016 00000 n 
+0000000074 00000 n 
+0000000146 00000 n 
+0000000297 00000 n 
+0000000953 00000 n 
+trailer <<
+    /Size 6
+    /Root 1 0 R
+>>
+startxref
+1040
+%%EOF
