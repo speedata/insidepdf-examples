@@ -1,0 +1,145 @@
+%PDF-1.6
+%···
+
+%% Root
+1 0 obj
+<<
+    /Type /Catalog
+    /Pages 2 0 R
+    /Outlines 6 0 R
+>>
+endobj
+
+2 0 obj
+<<
+    /Type /Pages
+    /Kids [ 3 0 R ]
+    /Count 1
+>>
+endobj
+
+3 0 obj
+<<
+    /Type /Page
+    /MediaBox [ 0 0 200 200 ]
+    /Contents 4 0 R
+    /Parent 2 0 R
+    /Resources << /Font << /F1 5 0 R  >>  >>
+    /Annots [ 
+        9 0 R 
+        10 0 R 
+        11 0 R
+    ]
+>>
+endobj
+
+4 0 obj
+<<
+    /Length 81
+>>
+stream
+BT
+/F1 12 Tf
+18 TL
+0 100 Td
+(Hello, nice world) Tj T*
+(This will be a link) Tj
+ET
+endstream
+endobj
+
+% a comment
+5 0 obj
+<<
+    /Type /Font
+    /Subtype /Type1
+    /Name /F1
+    /BaseFont /Helvetica
+>>
+endobj
+
+6 0 obj
+<< /Type /Outlines
+    /First 7 0 R
+    /Last 7 0 R
+    /Count 2
+>>
+endobj
+
+7 0 obj
+<<
+    /Title (Document)
+    /Parent 6 0 R
+    /First 8 0 R 
+    /Last 8 0 R
+    /Count 1
+    /Dest [ 3 0 R /XYZ null 200 null ]
+>>
+endobj
+
+8 0 obj
+<<
+    /Title (Section)
+    /Parent 7 0 R
+    % slightly above the baseline of the text
+    /Dest [ 3 0 R /XYZ 0 110 null ]
+>>
+endobj
+
+9 0 obj
+<<
+    /Type /Annot
+    /Subtype /Text
+    /Rect [ 10 100 90 190 ]
+    /Contents ( Text #1 )
+    /Open false
+>>
+endobj
+
+10 0 obj
+<<
+    /Type /Annot
+    /Subtype /Link
+    /Rect [ 0 110 90 98 ]
+    /Border [ 2 2 3 ]
+    /Dest [ 3 0 R /FitR -4 200 199 150 ]
+>>
+endobj
+
+11 0 obj
+<<
+    /Type /Annot
+    /Subtype /Link
+    /A << 
+        /Type /Action
+        /S /URI
+        /URI (https://www.speedata.de)
+    >>
+    /Rect [ 0 92 92 80 ]
+    % border radius x and y, border width
+    /Border [ 2 2 3 ] 
+>>
+endobj
+
+xref
+0 12
+0000000000 65535 f 
+0000000026 00000 n 
+0000000104 00000 n 
+0000000176 00000 n 
+0000000394 00000 n 
+0000000542 00000 n 
+0000000639 00000 n 
+0000000723 00000 n 
+0000000871 00000 n 
+0000001014 00000 n 
+0000001142 00000 n 
+0000001290 00000 n 
+trailer <<
+/Root 1 0 R
+/ID [<3184E9B1C7D6F4CADCB7CBABB39583B1> <3184E9B1C7D6F4CADCB7CBABB39583B1>]
+/Size 12
+>>
+startxref
+1534
+%%EOF

@@ -16,6 +16,9 @@ https://news.speedata.de
 | `03-rect.pdf`          | Basic colors              | [Part 3](https://news.speedata.de/2024/04/08/insidepdf-03)  |
 | `03-skew.pdf`          | Transformations           | [Part 3](https://news.speedata.de/2024/04/08/insidepdf-03)  |
 | `03-bezier.pdf`        | Arcs                      | [Part 3](https://news.speedata.de/2024/04/08/insidepdf-03)  |
+| `04-outline.pdf`       | Bookmarks                 | [Part 4](https://news.speedata.de/2024/04/16/insidepdf-04)  |
+| `04-annotation.pdf`    | Annotations               | [Part 4](https://news.speedata.de/2024/04/16/insidepdf-04)  |
+| `04-complete.pdf`      | Complete example          | [Part 4](https://news.speedata.de/2024/04/16/insidepdf-04)  |
 
 
 ## License and contact
