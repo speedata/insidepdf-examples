@@ -1,0 +1,184 @@
+%PDF-1.7
+%··
+
+1 0 obj
+<<
+    /Type /Catalog
+    /Pages 2 0 R
+    /Metadata 6 0 R
+    /MarkInfo << /Marked true >>
+    /Lang (en)
+    /StructTreeRoot 7 0 R
+    /ViewerPreferences <<
+        /DisplayDocTitle true
+    >>
+>>
+endobj
+
+2 0 obj
+<<
+    /Type /Pages
+    /Kids [ 3 0 R ]
+    /Count 1
+>>
+endobj
+
+3 0 obj
+<<
+    /Type /Page
+    /MediaBox [ 0 0 200 200 ]
+    /Contents 4 0 R
+    /Parent 2 0 R
+    /Resources << /Font << /F1 5 0 R  >>  >>
+    % entry 0 in the num index in object 11
+    /StructParents 0       
+>>
+endobj
+
+4 0 obj
+<<
+    /Length 252
+>>
+stream
+% role = H1, markup content id 0
+/H1<</MCID 0>>
+BDC
+  BT
+    /F1 14 Tf
+    10 100 Td
+    12 TL
+    (A short story) Tj
+  ET
+EMC
+% role = P, markup content id 1
+/P<</MCID 1>>
+BDC
+  BT
+    /F1 12 Tf
+    10 90 Td
+    12 TL
+    (Once upon a time)'
+  ET
+EMC
+endstream
+endobj
+
+5 0 obj
+<<
+    /Type     /Font
+    /Subtype  /Type1
+    /BaseFont /Helvetica
+>>
+endobj
+
+6 0 obj
+<<
+    /Type /Metadata
+    /Subtype /XML
+    /Length 1478
+>>
+stream
+<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+       <x:xmpmeta xmlns:x="adobe:ns:meta/">
+      <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+        <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/">
+          <xmpMM:DocumentID>uuid:e1fd5f92-3cb5-4e33-ced8-cb914873004d</xmpMM:DocumentID>
+          <xmpMM:InstanceID>uuid:343be305-e7e9-4eb9-ce04-3735d12f2fb2</xmpMM:InstanceID>
+        </rdf:Description>
+        <rdf:Description rdf:about="" xmlns:pdfuaid="http://www.aiim.org/pdfua/ns/id/">
+          <pdfuaid:part>1</pdfuaid:part>
+        </rdf:Description>
+        <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/">
+           <xmp:CreateDate>2024-04-25T20:59:11+02:00</xmp:CreateDate>
+           <xmp:ModifyDate>2024-04-25T20:59:11+02:00</xmp:ModifyDate>
+           <xmp:MetadataDate>2024-04-25T20:59:11+02:00</xmp:MetadataDate>
+           <xmp:CreatorTool>manual creation</xmp:CreatorTool>
+        </rdf:Description>
+        <rdf:Description rdf:about="" xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+          <pdf:Producer>text editor</pdf:Producer>
+        </rdf:Description>
+        <rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/">
+          <dc:title>
+            <rdf:Alt>
+              <rdf:li xml:lang="x-default">tagged PDF demo</rdf:li>
+            </rdf:Alt>
+          </dc:title>
+        </rdf:Description>
+      </rdf:RDF>
+    </x:xmpmeta>
+
+<?xpacket end="w"?>
+endstream
+endobj
+
+7 0 obj
+<<
+  /Type /StructTreeRoot
+  % child
+  /K 8 0 R 
+  % a number tree
+  /ParentTree 11 0 R
+>>
+endobj
+
+% The first child (the document node)
+8 0 obj
+<<  
+    /K [ 9 0 R  10 0 R]
+    /Type /StructElem
+    /S /Document
+    /T (tagged PDF demo)
+    /P 7 0 R
+>>
+endobj
+
+9 0 obj
+<<
+    /Type /StructElem
+    /K 0                 % mcid 0
+    /Pg 3 0 R
+    /P 8 0 R
+    /S /H1
+    /T (A short story)
+>>
+endobj
+
+10 0 obj
+<<
+    /Type /StructElem
+    /K 1                 % mcid 1
+    /Pg 3 0 R
+    /P 8 0 R
+    /S /P
+    /T (once upon a time)
+>>
+endobj
+
+11 0 obj
+<<
+    %  page with index 0 has the “mcid” items
+    %  in objects 9 and 10
+    /Nums [ 0 [ 9 0 R 10 0 R ] ]
+>>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000016 00000 n 
+0000000231 00000 n 
+0000000303 00000 n 
+0000000526 00000 n 
+0000000833 00000 n 
+0000000921 00000 n 
+0000002493 00000 n 
+0000002638 00000 n 
+0000002763 00000 n 
+0000002902 00000 n 
+0000003044 00000 n 
+trailer <<
+    /Size 12
+    /Root 1 0 R
+>>
+startxref
+3176
+%%EOF

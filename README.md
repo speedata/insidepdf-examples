@@ -21,10 +21,12 @@ https://news.speedata.de
 | `04-complete.pdf`      | Complete example            | [Part 4](https://news.speedata.de/2024/04/16/insidepdf-04)  |
 | `05-infodict.pdf`      | Metadata in info dictionary | [Part 5](https://news.speedata.de/2024/04/23/insidepdf-05)  |
 | `05-metadata.pdf`      | XML metadata in stream      | [Part 5](https://news.speedata.de/2024/04/23/insidepdf-05)  |
+| `06-a11y.pdf`          | Tagged PDF / PDF/UA         | [Part 6](https://news.speedata.de/2024/06/11/insidepdf-06)  |
 
 ## License and contact
 
 This work is marked with CC0 1.0. To view a copy of this license, visit <http://creativecommons.org/publicdomain/zero/1.0>
 
 See https://www.speedata.de/imprint/ how to contact me.
+
 
